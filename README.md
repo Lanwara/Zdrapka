@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zdrapka
-- 🌱 I’m currently learning PYTHON
-i'm not russian
-and i am not taking coding seriously (just yet)
+- Amateur (more like as a hobby) Python programmer
+- My main project is [Desert Fruit](https://github.com/Zdrapka/Desert-Fruit-v2), a discord bot.
+  - Really I'm doing this project as a way to teach myself how to code
 
+- I personally hate the Apache License
 
 <!---
 Zdrapka/Zdrapka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
